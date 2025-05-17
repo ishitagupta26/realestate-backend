@@ -24,7 +24,7 @@ This is an intelligent real estate data analysis chatbot built using Django (bac
 - Uses clean formatting and scrollable horizontal view for wide datasets.
 
  5. Export Data to CSV
-- 📥 One-click Download CSV of the full filtered dataset for external use or records.
+- One-click Download CSV of the full filtered dataset for external use or records.
 
  6. Hardcoded API Key (for smooth local use)
 - Skips `.env`/`.gitignore` complexity.
