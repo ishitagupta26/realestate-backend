@@ -1,5 +1,7 @@
 Real Estate Data Chatbot with Visualization (Django + React)
-[demo video](https://drive.google.com/file/d/1U6fuvBmWfUHB9AwwRJ2AsNuc_ngGFkfT/view?usp=sharing)
+
+[demo video for the project](https://drive.google.com/file/d/1U6fuvBmWfUHB9AwwRJA2sNwc_ngGFkfT/view?usp=sharing)
+
 
 This is an intelligent real estate data analysis chatbot built using Django (backend) and React (frontend). It allows users to ask smart, human-like questions related to real estate data and receive:
 - Interactive charts
