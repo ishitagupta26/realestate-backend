@@ -7,9 +7,11 @@ import re
 import openai
 
 # Use OpenRouter instead of OpenAI
-openai.api_key = "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"
+openai.api_key = "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"  # ✅ assign directly
 openai.api_base = "https://openrouter.ai/api/v1"
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
+print("KEY LOADED?", openai.api_key is not None)
 
 @csrf_exempt
 def chatbot_analysis(request):
